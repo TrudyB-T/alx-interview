@@ -1,4 +1,4 @@
-0x00. Pascal's Triangle
+# 0x00. Pascal's Triangle
 
 This is a task to create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
 
